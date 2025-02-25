@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"DataAccess","l":"AbstractDAO"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"DataAccess","l":"BillDAO"},{"p":"DataAccess","l":"ClientDAO"},{"p":"DataAccess","l":"OrderDAO"},{"p":"DataAccess","l":"ProductDAO"}];updateSearchResults();
